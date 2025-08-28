@@ -28,7 +28,7 @@
 로봇 소프트웨어 개발 기사 (2023.11)
 영어 OPIc IH (2024.06)
 
-🚗 자율주행 시스템 개발
+🚗 **자율주행 시스템 개발**
 
 ROS 기반 자율주행 자동차 (학사 캡스톤디자인)
 
@@ -38,7 +38,7 @@ TEB Local Planner, Lattice Planner 구현
 
 
 
-🧠** AI & 강화학습 연구*
+🧠 **AI & 강화학습 연구**
 
 스마트폰 센서 기반 행동 인지 (학사 졸업논문)
 
@@ -58,9 +58,10 @@ Isaac lab의 Franka robot arm을 PPO학습하여 Pick & Lift 수행
 
 🌍 **International Experience**
 
-중국 국제학교 재학 (2008-2009)
-캐나다 유학 (2011-2012)
-프랑스 교환학생 (2017)
+중국 국제학교 재학 (2008-2009)  
+캐나다 유학 (2011-2012)  
+프랑스 교환학생 (2017)  
 
 📫 **Connect with Me**
+
 E-mail : jewoo2963@gmail.com
