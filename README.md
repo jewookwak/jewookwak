@@ -5,12 +5,21 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jewookwak&theme=dark&hide_border=true&locale=ko)](https://git.io/streak-stats)
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=mathworks&logoColor=white">
+🛠️ **Tech Stack**
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=mathworks&logoColor=white">
 
 <!-- AI & ML -->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 
+<!-- Simulation Tools -->
+<img src="https://img.shields.io/badge/CARLA-FF4B4B?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/SUMO-4CAF50?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logoColor=white">
+
+<!-- Robotics -->
+<img src="https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
 <!-- About Me -->
 🎓 **Education**
+
 서울과학기술대학교 기계시스템디자인공학전공 & ICT인공지능학과 연계전공 졸업
 자동차공학과 석사과정 (2025.08 수료)
 
@@ -18,6 +27,7 @@
 자율주행 기술과 AI를 활용한 차세대 모빌리티 솔루션 개발에 열정을 가지고 있습니다.
 
 🏆 **Achievements**
+
 🥇 **Competition Awards**
 
 전국 대학생 하이브리드 자동차 경진대회 - 종합 1위 (2016, 고용노동부)
