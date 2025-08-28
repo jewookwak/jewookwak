@@ -23,28 +23,28 @@
 서울과학기술대학교 기계시스템디자인공학전공 & ICT인공지능학과 연계전공 (2023.02 졸업)  
 자동차공학과 석사과정 (2025.08 수료)
 
-현재 심층강화학습을 이용한 후방 접근 차량 회피 알고리즘 연구를 진행하고 있으며,
+현재 심층강화학습을 이용한 후방 접근 차량 회피 알고리즘 연구를 진행하고 있으며,  
 자율주행 기술과 AI를 활용한 차세대 모빌리티 솔루션 개발에 열정을 가지고 있습니다.
 
 🏆 **Achievements**
 
 🥇 **Competition Awards**
 
-전국 대학생 하이브리드 자동차 경진대회 - 종합 1위 (2016, 고용노동부)
-국제 대학생 창작 자동차 경진대회 - 대상 (2020, 국토교통부)
+전국 대학생 하이브리드 자동차 경진대회 - 종합 1위 (2016, 고용노동부)  
+국제 대학생 창작 자동차 경진대회 - 대상 (2020, 국토교통부)  
 
 📜 **Certifications**
 
-로봇 소프트웨어 개발 기사 (2023.11)
-영어 OPIc IH (2024.06)
+로봇 소프트웨어 개발 기사 (2023.11)  
+영어 OPIc IH (2024.06)  
 
 🚗 **자율주행 시스템 개발**
 
 ROS 기반 자율주행 자동차 (학사 캡스톤디자인)
 
-3D LiDAR, Camera, GPS, IMU 센서 융합
-YOLO v4 객체 인식, Pure Pursuit & Stanley Controller
-TEB Local Planner, Lattice Planner 구현
+*3D LiDAR, Camera, GPS, IMU 센서 융합  
+*YOLO v4 객체 인식, Pure Pursuit & Stanley Controller  
+*TEB Local Planner, Lattice Planner 구현  
 
 
 
