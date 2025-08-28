@@ -51,18 +51,17 @@ ROS 기반 자율주행 자동차 (학사 캡스톤디자인)
 🧠 **AI & 강화학습 연구**
 
 스마트폰 센서 기반 행동 인지 (학사 졸업논문)
-
-LSTM 모델로 6가지 사람 행동 분류
-PCA 차원 축소 (561개 → 155개 특성)
+* LSTM 모델로 6가지 사람 행동 분류
+* PCA 차원 축소 (561개 → 155개 특성)
 
 
 후방 접근 차량 회피 알고리즘 (석사 연구)
+* LSTM-DQN으로 충돌 방지 시스템 개발
+* 회피율 83.6% 달성, RBF-SVM 위험도 계산
 
-LSTM-DQN으로 충돌 방지 시스템 개발
-회피율 83.6% 달성, RBF-SVM 위험도 계산
-
-Isaac lab의 Franka robot arm을 PPO학습하여 Pick & Lift 수행
-물체를 집으면 +1을 추가하는 Reward 추가하여 Picking 동작 수행 확인
+Isaac Lab   
+* Isaac lab의 Franka robot arm을 PPO학습하여 Pick & Lift 수행  
+* 물체를 집으면 +1을 추가하는 Reward 추가하여 Picking 동작 수행 확인  
 
 
 
