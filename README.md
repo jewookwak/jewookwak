@@ -42,9 +42,9 @@
 
 ROS 기반 자율주행 자동차 (학사 캡스톤디자인)
 
-*3D LiDAR, Camera, GPS, IMU 센서 융합  
-*YOLO v4 객체 인식, Pure Pursuit & Stanley Controller  
-*TEB Local Planner, Lattice Planner 구현  
+* 3D LiDAR, Camera, GPS, IMU 센서 융합  
+* YOLO v4 객체 인식, Pure Pursuit & Stanley Controller  
+* TEB Local Planner, Lattice Planner 구현  
 
 
 
