@@ -14,7 +14,7 @@
 
 <!-- Simulation Tools -->
 <img src="https://img.shields.io/badge/CARLA-FF4B4B?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/SUMO-4CAF50?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logoColor=white">
-
+<img src="https://img.shields.io/badge/IsaacLAB-FF4B4B?style=for-the-badge&logoColor=white">
 <!-- Robotics -->
 <img src="https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
 <!-- About Me -->
