@@ -71,9 +71,15 @@ Isaac Lab
 캐나다 유학 (2011-2012)  
 프랑스 교환학생 (2017)  
 
+📚**Blog**
+
+Notion : https://mammoth-glasses-941.notion.site/1dc506ddbcb64c2ebfa4d831eead44eb?pvs=74
+
 📫 **Connect with Me**
 
 E-mail : jewoo2963@gmail.com  
+
+
 
 ![Image](https://github.com/user-attachments/assets/e63da7e3-31ce-4d06-8b8d-dddeeb8e3f4b)
 ![Image](https://github.com/user-attachments/assets/fbc6204b-148a-4219-aac9-1b034bd913ed)
