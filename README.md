@@ -71,7 +71,7 @@ Isaac Lab
 캐나다 유학 (2011-2012)  
 프랑스 교환학생 (2017)  
 
-📚**Blog**
+📚**Tech Blog**
 
 Notion : https://mammoth-glasses-941.notion.site/1dc506ddbcb64c2ebfa4d831eead44eb?pvs=74
 
