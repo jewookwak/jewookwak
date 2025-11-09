@@ -73,5 +73,4 @@ Isaac Lab
 
 📫 **Connect with Me**
 
-E-mail : jewoo2963@gmail.com
-[통합_포트폴리오.pdf](https://github.com/user-attachments/files/23436129/_.pdf)
+E-mail : jewoo2963@gmail.com  
